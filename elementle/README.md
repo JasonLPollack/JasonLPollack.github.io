@@ -1,4 +1,4 @@
-# Birdle
+# Elementle
 
 Play Elementle by visiting https://jasonlpollack.github.io/elementle/.
 
