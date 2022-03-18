@@ -1,5 +1,5 @@
 # Birdle
 
-Play Birdle by visiting https://decaba.github.io/birdle/.
+Play Elementle by visiting https://jasonlpollack.github.io/elementle/.
 
-Birdle is a bird-themed version of Wordle (https://www.powerlanguage.co.uk/wordle/), by Josh Wardle.
+Elementle is a bird-themed version of Wordle (https://www.powerlanguage.co.uk/wordle/), by Josh Wardle.
