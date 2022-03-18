@@ -1657,7 +1657,7 @@ var va = ["xenon", "boron", "argon"],
                                         }
                                     }), d += "\n")
                                 }), {
-                                    text: "".concat(l, "\n\n").concat(d.trimEnd())
+                                    text: "".concat(l, "\n\n").concat(d.trimEnd()).concat("\n\njasonlpollack.github.io/elementle/")
                                 }
                             }({
                                 evaluations: e.gameApp.evaluations,
